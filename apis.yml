@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://statically.io/
 common:
+  - type: DomainSecurity
+    url: security/statically-domain-security.yml
   - type: Website
     url: https://statically.io/
   - type: PublicAPIsListing
